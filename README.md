@@ -1,4 +1,4 @@
-# 🔬 Pipe Bend Ovality Measurement Instrument
+# Pipe Bend Ovality Measurement Instrument
 
 > **Developed for IGCAR Kalpakkam (Indira Gandhi Centre for Atomic Research)**  
 > A compact, handheld, battery-powered inductance-based instrument for measuring the ovality of pipe bends in nuclear plant pipelines.
