@@ -12,13 +12,9 @@
 
 ## 📸 Instrument Overview
 
-> *Add photos of your final instrument here — OLED showing a measurement, the enclosure, jaws on a pipe*
-
-| View | Description |
-|------|-------------|
-| ![Front]() | Front view — OLED display + buttons |
-| ![Jaws]() | Jaw mechanism measuring a pipe |
-| ![Result]() | OLED result screen showing ovality % |
+| | | |
+|--|--|--|
+| ![View 1](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-1.jpg) | ![View 2](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-2.jpg) | ![View 3](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-3.jpg) |
 
 ---
 
