@@ -22,7 +22,7 @@
 
 When a pipe bend is subjected to bending loads, its cross-section deforms from a circle to an oval shape. **Ovality** quantifies this deformation:
 
-$$W(\%) = \frac{D_{max} - D_{min}}{D_0} \times 100$$
+> **W (%) = ( Dmax − Dmin ) / D₀ × 100**
 
 Where:
 - **D₀** = nominal outer diameter (straight section)
