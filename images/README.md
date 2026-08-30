@@ -2,9 +2,9 @@
 
 Add your instrument photos here:
 
-- `front_view.jpg` — Front view showing OLED and buttons
-- `jaws_on_pipe.jpg` — Jaws measuring an actual pipe
-- `oled_result.jpg` — OLED showing ovality percentage result
+- `igcar-1.jpg` — Front view showing OLED and buttons
+- `igcar-2.jpg` — Jaws measuring an actual pipe
+- `igcar-3.jpg` — OLED showing ovality percentage result
 - `enclosure_full.jpg` — Complete assembled instrument
 - `circuit_inside.jpg` — Internal wiring (optional)
 
