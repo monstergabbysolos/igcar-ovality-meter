@@ -1,0 +1,22 @@
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+build/
+.arduino15/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.bak
