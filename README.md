@@ -8,6 +8,12 @@
 ![Sensor](https://img.shields.io/badge/sensor-LDC1612-orange.svg)
 ![Status](https://img.shields.io/badge/status-Validated%20at%20IGCAR-brightgreen.svg)
 
+## Research Project Completion Certificate
+
+| | | |
+|--|--|--|
+| ![View 1](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-1.jpg) | ![View 2](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-2.jpg) | ![View 3](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-3.jpg) |
+
 ---
 
 ## 📸 Instrument Overview
