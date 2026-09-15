@@ -12,7 +12,7 @@
 
 | | | |
 |--|--|--|
-| ![View 1](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-1.jpg) | ![View 2](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-2.jpg) | ![View 3](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/igcar-3.jpg) |
+| ![View 1](https://raw.githubusercontent.com/monstergabbysolos/igcar-ovality-meter/main/images/Ovalitymeter-Certificate.jpg) |
 
 ---
 
